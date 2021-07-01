@@ -1,0 +1,16 @@
+C:\Users\pc\AppData\Local\Temporary Projects\TextTransitionZ\bin\Debug\TextTransitionZ.exe.config
+C:\Users\pc\AppData\Local\Temporary Projects\TextTransitionZ\bin\Debug\TextTransitionZ.exe
+C:\Users\pc\AppData\Local\Temporary Projects\TextTransitionZ\bin\Debug\TextTransitionZ.pdb
+C:\Users\pc\AppData\Local\Temporary Projects\TextTransitionZ\bin\Debug\TextTransitionZ.xml
+C:\Users\pc\AppData\Local\Temporary Projects\TextTransitionZ\obj\Debug\TextTransitionZ.vbprojResolveAssemblyReference.cache
+C:\Users\pc\AppData\Local\Temporary Projects\TextTransitionZ\obj\Debug\MainWindow.g.vb
+C:\Users\pc\AppData\Local\Temporary Projects\TextTransitionZ\obj\Debug\Application.g.vb
+C:\Users\pc\AppData\Local\Temporary Projects\TextTransitionZ\obj\Debug\TextTransitionZ_MarkupCompile.cache
+C:\Users\pc\AppData\Local\Temporary Projects\TextTransitionZ\obj\Debug\TextTransitionZ_MarkupCompile.lref
+C:\Users\pc\AppData\Local\Temporary Projects\TextTransitionZ\obj\Debug\MainWindow.baml
+C:\Users\pc\AppData\Local\Temporary Projects\TextTransitionZ\obj\Debug\TextTransitionZ.g.resources
+C:\Users\pc\AppData\Local\Temporary Projects\TextTransitionZ\obj\Debug\TextTransitionZ.Resources.resources
+C:\Users\pc\AppData\Local\Temporary Projects\TextTransitionZ\obj\Debug\TextTransitionZ.vbproj.GenerateResource.Cache
+C:\Users\pc\AppData\Local\Temporary Projects\TextTransitionZ\obj\Debug\TextTransitionZ.exe
+C:\Users\pc\AppData\Local\Temporary Projects\TextTransitionZ\obj\Debug\TextTransitionZ.xml
+C:\Users\pc\AppData\Local\Temporary Projects\TextTransitionZ\obj\Debug\TextTransitionZ.pdb
